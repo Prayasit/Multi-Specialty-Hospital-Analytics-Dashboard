@@ -133,7 +133,7 @@ Multi-Specialty-Hospital-Analytics-Dashboard/
 
 **Prayas Gotefode**
 
-MCA Student | Data Analytics and Software Development
+MCA Student | Aspiring Data Analyst
 
 - GitHub: [Prayasit](https://github.com/Prayasit)
 - LinkedIn: [Prayas Gotefode](https://www.linkedin.com/in/prayas-gotefode-819718401)
